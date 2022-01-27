@@ -9,11 +9,11 @@
   <br>
  </div>
 <br>
-<div align="justify">
+ <div align="justify">
   <a href="https://github.com/GabrielNRE3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielNRE3&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNRE3&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
+ </div> 
 <div style="display: inline_block"><br>
   <img align="justify" alt="NRE3-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="justify" alt="NRE3-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
